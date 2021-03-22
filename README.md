@@ -1,2 +1,2 @@
-# Binary-to-decimal
-Converting binary numbers to decimals.
+# Binary-Converter
+Converting binary numbers to decimals and vice versa.
