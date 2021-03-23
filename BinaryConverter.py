@@ -1,5 +1,3 @@
-import time
-
 def convertBtoD(binaryNum, mode):
     binaryNum = str(binaryNum)
     decimalNum = 0
@@ -38,4 +36,5 @@ if __name__ == "__main__":
     elif choice == "2":
         iNum = input("Integer Number: ")
         convertDtoB(iNum, "print")
+    input("Press enter to exit ")
 
